@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1562874733 source:/home/alumno/Brizuela.Adrian/recu2doParcialLabo1/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562874733 /home/alumno/Brizuela.Adrian/recu2doParcialLabo1/LinkedList.h
+
+1562881479 source:/home/alumno/Brizuela.Adrian/recu2doParcialLabo1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"controller.h"
+
+1562882119 /home/alumno/Brizuela.Adrian/recu2doParcialLabo1/parser.h
+	"LinkedList.h"
+
+1562884007 /home/alumno/Brizuela.Adrian/recu2doParcialLabo1/controller.h
+
+1562887180 source:/home/alumno/Brizuela.Adrian/recu2doParcialLabo1/utn.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1562882818 /home/alumno/Brizuela.Adrian/recu2doParcialLabo1/utn.h
+
+1562888045 source:/home/alumno/Brizuela.Adrian/recu2doParcialLabo1/soporte.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"soporte.h"
+	"controller.h"
+	"utn.h"
+
+1562887435 source:/home/alumno/Brizuela.Adrian/recu2doParcialLabo1/controller.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"soporte.h"
+	"controller.h"
+	"utn.h"
+
+1562885528 /home/alumno/Brizuela.Adrian/recu2doParcialLabo1/soporte.h
+
+1562886260 source:/home/alumno/Brizuela.Adrian/recu2doParcialLabo1/parser.c
+	<stdio_ext.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"soporte.h"
+	"controller.h"
+
